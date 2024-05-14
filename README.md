@@ -1,2 +1,2 @@
 # Demo
-Authoe-Manoj Reddy
+Author-Manoj Reddy
